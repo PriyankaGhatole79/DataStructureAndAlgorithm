@@ -17,7 +17,7 @@ add_executable(cpp_dsa
 
 # Include directory
 target_include_directories(cpp_dsa
-    PRIVATE
+    PRIVATE cd
         ${PROJECT_SOURCE_DIR}/include
 )
 
